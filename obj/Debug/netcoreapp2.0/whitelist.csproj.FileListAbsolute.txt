@@ -1,0 +1,11 @@
+C:\Users\Collin\source\repos\resources\whitelist\bin\Debug\netcoreapp2.0\whitelist.deps.json
+C:\Users\Collin\source\repos\resources\whitelist\bin\Debug\netcoreapp2.0\whitelist.dll
+C:\Users\Collin\source\repos\resources\whitelist\bin\Debug\netcoreapp2.0\whitelist.pdb
+C:\Users\Collin\source\repos\resources\whitelist\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+C:\Users\Collin\source\repos\resources\whitelist\obj\Debug\netcoreapp2.0\whitelist.csprojAssemblyReference.cache
+C:\Users\Collin\source\repos\resources\whitelist\obj\Debug\netcoreapp2.0\whitelist.csproj.CoreCompileInputs.cache
+C:\Users\Collin\source\repos\resources\whitelist\obj\Debug\netcoreapp2.0\whitelist.AssemblyInfoInputs.cache
+C:\Users\Collin\source\repos\resources\whitelist\obj\Debug\netcoreapp2.0\whitelist.AssemblyInfo.cs
+C:\Users\Collin\source\repos\resources\whitelist\obj\Debug\netcoreapp2.0\whitelist.csproj.CopyComplete
+C:\Users\Collin\source\repos\resources\whitelist\obj\Debug\netcoreapp2.0\whitelist.dll
+C:\Users\Collin\source\repos\resources\whitelist\obj\Debug\netcoreapp2.0\whitelist.pdb
