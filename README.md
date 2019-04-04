@@ -15,6 +15,6 @@ to their server.
 
 - YOU NEED BRIDGE AND HAVE CSHARP ENABLED IN YOUR SERVER CONFIG
 - Place whitelist folder in resources folder within bridge
-- Update your settings.xml in bridge and add '<resource src="whitelist" />'
+- Update your settings.xml in bridge and make sure this is a resource
 
 Need help? [Discord](https://discord.gg/x4JrPep)
